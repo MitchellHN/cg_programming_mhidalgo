@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cg_programming_mhidalgo", "cg_programming_mhidalgo\cg_programming_mhidalgo.vcxproj", "{47E8223D-DB0E-41B4-AAF6-C210A5A9BEFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47E8223D-DB0E-41B4-AAF6-C210A5A9BEFF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{47E8223D-DB0E-41B4-AAF6-C210A5A9BEFF}.Debug|Win32.Build.0 = Debug|Win32
+		{47E8223D-DB0E-41B4-AAF6-C210A5A9BEFF}.Release|Win32.ActiveCfg = Release|Win32
+		{47E8223D-DB0E-41B4-AAF6-C210A5A9BEFF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
